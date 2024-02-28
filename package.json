@@ -1,0 +1,24 @@
+{
+  "name": "holisticizing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitrianihastuti/holisticizing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitrianihastuti/holisticizing/issues"
+  },
+  "homepage": "https://github.com/fitrianihastuti/holisticizing#readme",
+  "dependencies": {
+    "fitrianizer": "^1.0.0",
+    "funcrandomizer": "^1.0.0",
+    "randomthinger": "^2.2.0"
+  }
+}
